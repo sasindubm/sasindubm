@@ -1,8 +1,3 @@
-<div align="center">
-<a href="https://app.daily.dev/msasindu450"><img src="https://api.daily.dev/devcards/v2/RZcHHf6V2hC6a6xIS3ddZ.png?r=s6h&type=default" width="356" alt="Sasindu Manamperi's Dev Card"/></a>
-</div>
-<div align="center">
-
 # 👨‍💻 Welcome to My Digital Universe 🌟
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Network+Enthusiast;IoT+Creator;Automation+Wizard;Always+Learning...)](https://git.io/typing-svg)
